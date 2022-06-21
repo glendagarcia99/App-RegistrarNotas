@@ -10,7 +10,7 @@ session_start();
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Registro Notas MVC</title>
+	<title>Registro Notas</title>
 
 	<!--=====================================
 	Archivo CSS
